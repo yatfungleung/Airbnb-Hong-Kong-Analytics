@@ -32,7 +32,13 @@ This is a project I worked on during the Full Time Data Science and Machine Lear
 
 ### Requirements
 * MongoDB Compass 1.26.1
+* Python 3.8.0
 * Tableau 2021.1
+### Packages
+* numpy 1.19.2
+* pandas 1.1.3
+* pymongo 3.11.3
+* dnspython 1.16.0
 
 <br />
 
