@@ -30,6 +30,18 @@ This is a project I worked on during the Full Time Data Science and Machine Lear
 
 <br />
 
+## Project Objective
+* tableau for management and marketing team
+* analysis of hong kong as a whole and three main districts as examples
+* demonstrate the workflow of development team
+  - store data on AWS through mongodb atlas (AWS / Singapore (ap-southeast-1) has been used as this is a free account)
+  - set up user
+  - set up access authorization
+  - connect to cluster by python
+  - perform queries under pymongo
+
+<br />
+
 ### Requirements
 * MongoDB Compass 1.26.1
 * Python 3.8.0
