@@ -32,4 +32,7 @@ This is a project I worked on during the Full Time Data Science and Machine Lear
 <br />
 
 ### Project Overview
-
+* [Hong Kong Overview Analysis(.ipynb)](/1_overview.ipynb)
+* [Yau Tsim Mong Analysis(.ipynb)](/2_yau_tsim_mong.ipynb)
+* [Central & Western Analysis(.ipynb)](/3_central_and_western.ipynb)
+* [Yuen Long Analysis(.ipynb)](/4_yuen_long.ipynb)
