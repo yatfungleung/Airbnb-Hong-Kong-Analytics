@@ -7,6 +7,17 @@ This is a project I worked on during the Full Time Data Science and Machine Lear
 
 <br />
 
+## Project Objective
+* Tableau visualization of data analytics for the Airbnb management and marketing teams
+* Analysis of the city and the three main districts as an example of their corresponding territories
+* Demonstrating the workflow of the company's development team
+  - Store data using Amazon Web Service (AWS) through MongoDB Atlas (MongoDB cloud server)
+  - Set up database user and network access authentications
+  - Connect to the cluster using native MongoDB's drivers
+  - Perform ETL (I used PyMongo as an example)
+
+<br />
+
 ## Visualization
 
 ### Please click the link and have a look: 
@@ -30,22 +41,13 @@ This is a project I worked on during the Full Time Data Science and Machine Lear
 
 <br />
 
-## Project Objective
-* tableau for management and marketing team
-* analysis of hong kong as a whole and three main districts as examples
-* demonstrate the workflow of development team
-  - store data on AWS through mongodb atlas (AWS / Singapore (ap-southeast-1) has been used as this is a free account)
-  - set up user
-  - set up access authorization
-  - connect to cluster by python
-  - perform queries under pymongo
-
-<br />
-
 ### Requirements
 * MongoDB Compass 1.26.1
 * Python 3.8.0
 * Tableau 2021.1
+
+<br />
+
 ### Packages
 * numpy 1.19.2
 * pandas 1.1.3
