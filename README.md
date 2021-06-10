@@ -8,13 +8,13 @@ This is a project I worked on during the Full Time Data Science and Machine Lear
 <br />
 
 ## Project Objective
-* Tableau visualization of data analytics for the Airbnb management and marketing teams
-* Analysis of the city and the three main districts as an example of their corresponding territories
-* Demonstrating the workflow of the company's development team
+* Presenting to the Airbnb management and marketing teams by Tableau visualizations
+  - Analyses of the city and the three main districts as an example of their corresponding territories
+* Demonstrating the possible workflow of the company's development team
   - Store data using Amazon Web Service (AWS) through MongoDB Atlas (MongoDB cloud server)
   - Set up database user and network access authentications
-  - Connect to the cluster using native MongoDB's drivers
-  - Perform ETL (I used PyMongo as an example)
+  - Connect to the cluster using native MongoDB's drivers (PyMongo is used in this project)
+  - Perform ETL
 
 <br />
 
@@ -57,8 +57,14 @@ This is a project I worked on during the Full Time Data Science and Machine Lear
 <br />
 
 ### Project Overview
+* Set up MongoDB Atlas
+  - [MongoDB Atlas Documentation](https://docs.atlas.mongodb.com/getting-started/)
+
+<img src="/image/mongodb_atlas.PNG" width="300">
+
 * [Hong Kong Overview Analysis(.ipynb)](/1_overview.ipynb)
-* [Yau Tsim Mong Analysis(.ipynb)](/2_yau_tsim_mong.ipynb)
-* [Central & Western Analysis(.ipynb)](/3_central_and_western.ipynb)
-* [Yuen Long Analysis(.ipynb)](/4_yuen_long.ipynb)
+* Three Main Districts
+  - [Yau Tsim Mong Analysis(.ipynb)](/2_yau_tsim_mong.ipynb)
+  - [Central & Western Analysis(.ipynb)](/3_central_and_western.ipynb)
+  - [Yuen Long Analysis(.ipynb)](/4_yuen_long.ipynb)
 
