@@ -22,6 +22,7 @@ This is a project I worked on during the Full Time Data Science and Machine Lear
 
 ### Please click the link and have a look: 
 ### [Airbnb Hong Kong Analytics](https://public.tableau.com/views/AirbnbHKAnalytics/Present1?:language=en-US&:display_count=n&:origin=viz_share_link)
+* (Suggested by Tableau) For iOS user, please open the link on Google Chrome browser if you experience any errors.
 
 <br />
 
@@ -38,6 +39,7 @@ This is a project I worked on during the Full Time Data Science and Machine Lear
 
 ### Please click the link and have a look: 
 ### [Airbnb Hong Kong Analytics](https://public.tableau.com/views/AirbnbHKAnalytics/Present1?:language=en-US&:display_count=n&:origin=viz_share_link)
+* (Suggested by Tableau) For iOS users, please open the link on Google Chrome browser if you experience any errors.
 
 <br />
 
